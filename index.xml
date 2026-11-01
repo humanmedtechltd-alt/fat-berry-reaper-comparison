@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Fat Berry DSP Workflow Tools">
+  <category name="Workflow">
+    <reapack name="FB_Prepare labelled comparison renders.lua" type="script" desc="Prepare labelled comparison renders and an exact settings manifest">
+      <metadata>
+        <link rel="website">https://github.com/humanmedtechltd-alt/fat-berry-reaper-comparison</link>
+      </metadata>
+      <version name="0.1.0" author="Fat Berry DSP" time="2026-11-01T12:00:00Z">
+        <changelog><![CDATA[Initial labelled comparison project preparation and private settings manifest. No product dependency or network access.]]></changelog>
+        <source main="main">https://raw.githubusercontent.com/humanmedtechltd-alt/fat-berry-reaper-comparison/v0.1.0/Workflow/FB_Prepare%20labelled%20comparison%20renders.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
